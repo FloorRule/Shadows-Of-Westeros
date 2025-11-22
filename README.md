@@ -278,7 +278,7 @@ Unit testing is required for:
 
 ---
 
-## Bonus Features Included (Optional)
+## Bonus Features Included
 
 ### Additional Player Class: Hunter
 
