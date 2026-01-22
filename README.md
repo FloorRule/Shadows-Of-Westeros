@@ -6,6 +6,12 @@ The objective is to survive all levels, defeat all enemies, and reach the end of
 
 This project follows object-oriented design principles and implements all required mechanics from the assignment specification.
 
+
+
+https://github.com/user-attachments/assets/b74d3d85-d44f-480e-9a9d-e680216cebbc
+
+
+
 ---
 
 ## Overview
