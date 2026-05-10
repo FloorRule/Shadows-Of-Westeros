@@ -36,13 +36,6 @@ The game receives a directory path as a command-line argument:
 java -jar {projectName}.jar <path_to_levels_folder>
 ```
 
-Each level file contains:
-
-* Walls (`#`)
-* Empty spaces (`.`)
-* Player (`@`)
-* Enemies (any other character)
-
 ---
 
 
